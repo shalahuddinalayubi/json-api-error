@@ -1,6 +1,7 @@
 {
     "name": "alayubi/json-api-error",
     "description": "Handle output of JSON:API error",
+    "license": "MIT",
     "authors": [
         {
             "name": "shalahuddinalayubi",
