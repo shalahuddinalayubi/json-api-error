@@ -1,0 +1,22 @@
+{
+    "name": "alayubi/json-api-error",
+    "description": "Handle output of JSON:API error",
+    "authors": [
+        {
+            "name": "shalahuddinalayubi",
+            "email": "shalahuddinalayubi24@gmail.com"
+        },
+        {
+            "name": "shalahuddinalayubi",
+            "email": "shalahuddin69@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Alayubi\\JsonApiError\\": "src/"
+        }
+    },
+    "require": {
+        "php": ">=5.4"
+    }
+}
